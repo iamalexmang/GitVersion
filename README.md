@@ -2,5 +2,5 @@
 Testing versioning using GItVersion
  
  
- 
+  
  
